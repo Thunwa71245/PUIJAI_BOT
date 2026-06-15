@@ -1,0 +1,13 @@
+node_modules
+.env
+.DS_Store
+*.log
+telegram-bot.log
+telegram-bot-error.log
+
+.vscode
+coverage
+dist
+
+documents/
+knowledge/
